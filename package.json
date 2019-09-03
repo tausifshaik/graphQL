@@ -1,0 +1,19 @@
+{
+  "name": "graphql-react",
+  "version": "1.0.0",
+  "description": "an event management tool using reactjs nodejs and GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tausifshaik/graphQL.git"
+  },
+  "author": "Tausif Shaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tausifshaik/graphQL/issues"
+  },
+  "homepage": "https://github.com/tausifshaik/graphQL#readme"
+}
